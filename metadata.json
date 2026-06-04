@@ -1,0 +1,6 @@
+{
+  "name": "Sky Runner",
+  "description": "An immersive, action-packed 2D endless runner arcade game featuring Keyboard/Touch controls, Web Audio synth sounds, custom visual particles, and local High Scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
